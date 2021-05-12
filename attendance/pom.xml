@@ -15,7 +15,7 @@
 
 		<!-- Spring -->
 		<spring-framework.version>5.2.5.RELEASE</spring-framework.version>
-		<spring.security.version>4.0.3.RELEASE</spring.security.version>
+		<spring.security.version>5.2.10.RELEASE</spring.security.version>
 
 
 		<!-- Hibernate -->
